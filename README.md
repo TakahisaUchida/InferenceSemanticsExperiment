@@ -4,6 +4,7 @@ This repository is for the inference semantics experiments.
 ## Pretrained Data
 This experiment can be conducted by corpuses below.
 
+### Word2vec and GloVe
 1. enwiki_20180420_100d
 2. enwiki_20180420_300d
 3. enwiki_20180420_500d
@@ -27,3 +28,27 @@ This experiment can be conducted by corpuses below.
 21. GENSIM-glove-twitter-100
 22. GENSIM-glove-twitter-200
 
+### BERT
+1. nli-bert-base
+2. nli-bert-base-cls-pooling
+3. nli-bert-base-max-pooling
+4. nli-bert-large
+5. nli-bert-large-cls-pooling
+6. nli-bert-large-max-pooling
+7. nli-distilbert-base
+8. nli-distilbert-base-max-pooling
+9. nli-distilroberta-base-v2
+10. nli-mpnet-base-v2
+11. nli-roberta-base
+12. nli-roberta-base-v2
+13. nli-roberta-large
+14. paraphrase-distilroberta-base-v1
+15. paraphrase-xlm-r-multilingual-v1
+16. stsb-bert-base
+17. stsb-bert-large
+18. stsb-distilbert-base
+19. stsb-distilroberta-base-v2
+20. stsb-mpnet-base-v2
+21. stsb-roberta-base
+22. stsb-roberta-base-v2
+23. stsb-roberta-large
