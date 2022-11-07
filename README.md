@@ -1,10 +1,11 @@
 # Inference Semantics Experiment
 This repository is for the inference semantics experiments. You can run them with InferenceSemanticsAnalysis-all-withChwilla.ipynb and InferenceSemanticsAnalysis-all-correl.ipynb in Experiments folder. The former is for Experiment 1: Relation between Chwilla semantics and Metusalem/McKoon inference by Static and Contextual LMs. The latter is for Experiment 2: Relation between Metusalem semantics and Metusalem/McKoon inference with Static and Contextual LMs.
 
-ChwillaTest:
-embeddingsExperiments:
-McKoon1986-pipeline:
-BERTexperiments: 
+Each folder below generates data which is necessary for the two experiments.
+ChwillaTest: Chiwilla task
+embeddingsExperiments: Metusalem task
+McKoon1986-pipeline: McKoon task
+BERTexperiments: BERT condition
 
 ## Pretrained Data
 This experiment can be conducted by corpuses below.
