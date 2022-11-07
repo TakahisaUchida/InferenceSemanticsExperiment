@@ -4,7 +4,6 @@ This repository is for the inference semantics experiments. You can run them wit
 Each folder below generates data which is necessary for the two experiments.
 
 ChwillaTest: Chiwilla task
-
 embeddingsExperiments: Metusalem task
 
 McKoon1986-pipeline: McKoon task
